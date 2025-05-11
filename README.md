@@ -34,7 +34,7 @@ Ingredients: The components used to make the pizza.
 
 Clone this repository:
 
-git clone https://github.com/username/pizza-sales-analysis.git
+git clone https://github.com/Phavouredphavour/TECHCRUSH-Task-3.git
 
 Install the required Python packages:
 
